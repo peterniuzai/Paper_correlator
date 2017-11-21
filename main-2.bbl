@@ -1,0 +1,28 @@
+\begin{thebibliography}{0}
+
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+
+\bibitem[Price et al.(2016)]{2016JAI.....502002P} Price, D.~C., Kocz, J., Bailes, M., \& Greenhill, L.~J.\ 2016, Journal of Astronomical Instrumentation , 5, 1602002 
+
+\bibitem[Thompson et al.(1986)]{1986isra.book.....T} Thompson, A.~R., Moran, J.~M., \& Swenson, G.~W.\ 1986, New York, Wiley-Interscience, 1986, 554 p.,  
+
+\bibitem[David M.~(2014)]{paper_correlator}
+David~Macmahon, 2014, \enquote{{PAPER Correlator Manifest},}
+  \url{https://casper.berkeley.edu/wiki/PAPER_Correlator_Manifest}.
+
+
+\bibitem[Chen(2012)]{2012IJMPS..12..256C} Chen, X.\ 2012, International Journal of Modern Physics Conference Series, 12, 256
+
+\bibitem[Parsons et al.(2008)]{2008PASP..120.1207P} Parsons, A., Backer, D., Siemion, A., et al.\ 2008, 120, 1207 
+\bibitem[Parsons et al.(2010)]{2010AJ....139.1468P} Parsons, A.~R., Backer, D.~C., Foster, G.~S., et al.\ 2010,  139, 1468 
+
+\bibitem[Clark et al.(2013)]{2013IJHPC..27..178C} Clark, M.~A., LaPlante, P.~C., \& Greenhill, L.~J.\ 2013, International Journal of High Performance Computing Applications, Vol.~27, p.~178-192, 27, 178 
+\end{thebibliography}
